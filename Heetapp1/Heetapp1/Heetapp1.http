@@ -1,0 +1,6 @@
+@Heetapp1_HostAddress = http://localhost:5032
+
+GET {{Heetapp1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
